@@ -1,4 +1,4 @@
-# DodgeCreeps
+# Dodge the Creeps
 
 This file was created using the Godot Dodge the Creeps tutorial.
 
